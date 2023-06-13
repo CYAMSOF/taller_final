@@ -13,7 +13,7 @@ catch(PDOException $e) {
     echo "Conexion fallida: " . $e->getMessage();
 }
 
-$conexion = new mysqli($host,$user,$pw,$db);
+$conexion = new mysqli($servername,$username,$password,$dbname);
 if ($conexion->connect_errno) {
     echo "Se experimentan fallos de conexion";
     exit();
