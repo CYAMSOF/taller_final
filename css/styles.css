@@ -184,6 +184,7 @@ video {
 
 
 
+
 /*ESTILOS MENÚ*/
 
 .estilos-menu {
@@ -601,8 +602,6 @@ footer i:hover {
     padding: 65px;
     transition: all 1s;
 }
-
-
 /*MEDIA QUERY  */
 @media screen and (min-width: 1600px) and (min-height: 1080px) {
 
@@ -724,264 +723,823 @@ footer i:hover {
 }
 
 
-     @media screen and (min-width: 1500px) and (min-height: 1080px) {
+@media screen and (min-width: 1500px) and (min-height: 1080px) {
 
-     
 
 
 
 
 
 
-        /* Tus estilos aquí para 1500x1080 */
-        ul {
-            margin-right: 24%;
-            justify-items: left;
-            display: flex;
-            list-style: none;
-        }
 
+    /* Tus estilos aquí para 1500x1080 */
+    ul {
+        margin-right: 24%;
+        justify-items: left;
+        display: flex;
+        list-style: none;
+    }
 
-        /*MENU*/
 
-        .titulo-menu {
+    /*MENU*/
 
-            padding-top: 2%;
-            margin-top: -1%;
-            color: #FEDB10;
-            background-color: #05050532;
-            margin-left: 0;
-            padding-left: 120px;
-            font-size: 2.8rem;
-            padding-bottom: 0%;
-            height: 1%;
-            width: 100%;
+    .titulo-menu {
 
+        padding-top: 2%;
+        margin-top: -1%;
+        color: #FEDB10;
+        background-color: #05050532;
+        margin-left: 0;
+        padding-left: 120px;
+        font-size: 2.8rem;
+        padding-bottom: 0%;
+        height: 1%;
+        width: 100%;
 
-        }
-
-        .pedirahora {
-
-            padding: 2%;
-            padding-left: -1%;
-            font-size: 14%;
-            margin-top: 8%;
-            margin-left: 10%;
-
-
-        }
-
-        .card p {
-            margin-top: 4%;
-            padding: 5%;
-            font-size: 22px;
-            width: 80%;
-            height: 28%;
-            margin-left: 10%;
-        }
-
-        .carousel {
-
-            height: 48%;
-            width: 70%;
-            margin-left: 10%;
-            margin-top: 160px;
-
-        }
-
-        .card h1 {
-            margin-top: 1%;
-            margin-left: 4%;
-            font-size: 19px;
-
-
-        }
-
-
-
-        .cards-container {
-            gap: 26px;
-        }
-
-
-        .next-button {
-
-            float: right;
-            margin-right: 240px;
-        }
-
-
-
-        /*QUERY NOSOTROS*/
-
-
-        .container_white {
-
-            padding-top: 0%;
-            width: 38%;
-            margin-top: -30%;
-            margin-left: 90px;
-            margin-bottom: 40%;
-            justify-content: center center;
-
-
-        }
-
-        .nuestras {
-            color: #fdfbfb;
-            font-size: 0.90rem;
-
-
-        }
-
-        .h3 {
-            font-size: 1.6rem;
-            margin-left: 6%;
-        }
-
-        h2.they {
-
-
-
-            margin-top: 4%;
-            padding-left: -2%;
-            margin-left: 2%;
-            font-size: 2rem;
-            width: 62%;
-            height: 2%;
-            margin-bottom: 6%;
-        }
-
-
-        .Alma {
-            color: #FEDB10;
-            font-size: 36px;
-            align-content: center;
-            padding-top: 8%;
-
-
-        }
-
-        .slogan_logo2 {
-
-
-
-            width: 10%;
-            margin-left: 16%;
-            margin-top: 10%;
-
-
-
-        }
-
-        .card p {
-            margin-top: 1%;
-            padding: 5%;
-            font-size: 18px;
-            width: 80%;
-            height: 25%;
-            justify-content: flex-end;
-            text-align: left;
-            margin-left: 10%;
-        }
-
-
-
-        .img2 {
-            width: 42%;
-        }
-
-        .img2 {
-
-            max-width: 180%;
-            position: relative;
-            margin-top: -22%;
-            left: 48.5%;
-            height: 110%;
-            min-height: 100%;
-
-        }
-
-
-        .slogan_logo2 {
-
-            width: 14%;
-            margin-left: 20%;
-            margin-top: 9%;
-
-
-        }
-
-        /*MEDIA QUERY CONTACTO*/
-
-
-
-        iframe {
-            margin-left: -340%;
-            width: 160%;
-            height: 44vh;
-            margin-top: 38%;
-            margin-bottom: -0%;
-            padding-top: 38%;
-            padding-bottom: -12%;
-            border-radius: 1%;
-
-        }
-
-        .contac {
-            margin-top: -140%;
-            color: #FEDB10;
-            margin-left: -60%;
-            font-size: 1.8rem;
-            margin-bottom: -6%;
-        }
-
-
-
-        /* QUERY FOOTER*/
-        footer {
-
-            background-color: #000000;
-            width: 100%;
-            height: 180px;
-            text-align: center;
-            margin-right: 88%;
-        }
-
-        footer i {
-            font-size: 50px;
-            color: #FEDB10;
-            padding: 65px;
-            transition: all 1s;
-        }
-
-        footer i:hover {
-            font-size: 70px;
-            color: rgb(190, 252, 3);
-            padding: 125px;
-            transition: all 1s;
-        }
-    
-
-
-    
 
     }
 
-    
+    .pedirahora {
+
+        padding: 2%;
+        padding-left: -1%;
+        font-size: 14%;
+        margin-top: 8%;
+        margin-left: 10%;
 
 
-    /* Estilos para dispositivos  */
-    @media (max-width: 1400px) {
-        /* Modificar estilos aquí */
     }
 
-    /* Estilos para tablets */
-    @media (min-width: 768px) and (max-width: 1023px) {
-        /* Modificar estilos aquí */
+    .card p {
+        margin-top: 4%;
+        padding: 5%;
+        font-size: 22px;
+        width: 80%;
+        height: 28%;
+        margin-left: 10%;
     }
 
-    /* Estilos para pantallas grandes */
-    @media (min-width: 1024px) {
-        /* Modificar estilos aquí */
+    .carousel {
+
+        height: 48%;
+        width: 70%;
+        margin-left: 10%;
+        margin-top: 160px;
+
     }
+
+    .card h1 {
+        margin-top: 1%;
+        margin-left: 4%;
+        font-size: 19px;
+
+
+    }
+
+
+
+    .cards-container {
+        gap: 26px;
+    }
+
+
+    .next-button {
+
+        float: right;
+        margin-right: 240px;
+    }
+
+
+
+    /*QUERY NOSOTROS*/
+
+
+    .container_white {
+
+        padding-top: 0%;
+        width: 38%;
+        margin-top: -30%;
+        margin-left: 90px;
+        margin-bottom: 40%;
+        justify-content: center center;
+
+
+    }
+
+    .nuestras {
+        color: #fdfbfb;
+        font-size: 0.90rem;
+
+
+    }
+
+    .h3 {
+        font-size: 1.6rem;
+        margin-left: 6%;
+    }
+
+    h2.they {
+
+
+
+        margin-top: 4%;
+        padding-left: -2%;
+        margin-left: 2%;
+        font-size: 2rem;
+        width: 62%;
+        height: 2%;
+        margin-bottom: 6%;
+    }
+
+
+    .Alma {
+        color: #FEDB10;
+        font-size: 36px;
+        align-content: center;
+        padding-top: 8%;
+
+
+    }
+
+    .slogan_logo2 {
+
+
+
+        width: 10%;
+        margin-left: 16%;
+        margin-top: 10%;
+
+
+
+    }
+
+    .card p {
+        margin-top: 1%;
+        padding: 5%;
+        font-size: 18px;
+        width: 80%;
+        height: 25%;
+        justify-content: flex-end;
+        text-align: left;
+        margin-left: 10%;
+    }
+
+
+
+    .img2 {
+        width: 42%;
+    }
+
+    .img2 {
+
+        max-width: 180%;
+        position: relative;
+        margin-top: -22%;
+        left: 48.5%;
+        height: 110%;
+        min-height: 100%;
+
+    }
+
+
+    .slogan_logo2 {
+
+        width: 14%;
+        margin-left: 20%;
+        margin-top: 9%;
+
+
+    }
+
+    /*MEDIA QUERY CONTACTO*/
+
+
+
+    iframe {
+        margin-left: -340%;
+        width: 160%;
+        height: 44vh;
+        margin-top: 38%;
+        margin-bottom: -0%;
+        padding-top: 38%;
+        padding-bottom: -12%;
+        border-radius: 1%;
+
+    }
+
+    .contac {
+        margin-top: -140%;
+        color: #FEDB10;
+        margin-left: -60%;
+        font-size: 1.8rem;
+        margin-bottom: -6%;
+    }
+
+
+
+    /* QUERY FOOTER*/
+    footer {
+
+        background-color: #000000;
+        width: 100%;
+        height: 180px;
+        text-align: center;
+        margin-right: 88%;
+    }
+
+    footer i {
+        font-size: 50px;
+        color: #FEDB10;
+        padding: 65px;
+        transition: all 1s;
+    }
+
+    footer i:hover {
+        font-size: 70px;
+        color: rgb(190, 252, 3);
+        padding: 125px;
+        transition: all 1s;
+    }
+
+
+
+
+
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    body {
+        font-size: 0.9rem;
+
+    }
+
+    nav {
+
+        display: flex;
+        align-items: center;
+        justify-content: right-end;
+        width: 99%;
+
+
+
+    }
+        
+    .titulo{
+        width: 100%;
+        margin-left: -4%;
+    }
+
+    .fa-magnifying-glass {
+        margin-top: 0.8%;
+        padding: 6%;
+        color: #FEDB10;
+        font-size: 18px;
+
+    }
+
+    ul {
+        padding-right: 12%;
+        margin-left: 0%;
+        justify-items: flex-end;
+
+    }
+
+    li {
+        margin-top: 2.5%;
+
+        padding: 3.5%;
+
+    }
+
+    a {
+
+        padding: 8%;
+        margin-right: 84%;
+        text-decoration: none;
+        color: #FEDB10;
+        font-size: 1.2rem;
+
+    }
+
+
+
+    /*INICIO SECCION INICIO*/
+
+
+    .logo {
+        margin-left: 74%;
+
+        width: 130%;
+
+    }
+
+    .slogan {
+        margin-bottom: 2%;
+
+        width: 520px;
+        margin-top: 4%;
+        background-color: #07060666;
+        padding-left: 4px;
+        text-align: center;
+        display: inline-block;
+        margin-left: 20%;
+
+        width: 60%;
+
+    }
+
+    .slogan h1 {
+        font-size: 2.6rem;
+        padding-right: 4%;
+        padding-left: 8%;
+
+        margin-left: 2%;
+
+        margin-top: 1%;
+        margin-bottom: 2%;
+        margin-left: 1%;
+
+        text-align: left;
+
+
+
+    }
+
+    .descripcion {
+        width: 120%;
+        font-size: 2.1rem;
+        margin-left: 120%;
+    }
+
+    .contenedor_video video {
+        min-width: 100%;
+        min-height: 100%;
+    }
+
+
+
+    /*INICIO SECCION MENÚ*/
+    .titulo-menu {
+        padding-left: 2.5%;
+        font-size: 2.2rem;
+        margin-left: 3.5%;
+    }
+
+    .card img {
+        width: 82%;
+    }
+
+    .card h1 {
+        font-size: 24px;
+
+    }
+
+    .cards-container {
+
+        gap: 6px;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+    .carousel {
+        width: 82%;
+        margin-left: 8%;
+        background-color: rgba(15, 14, 14, 0.735);
+        margin-top: 16%;
+        height: 62%;
+        padding: 2.2%;
+    }
+
+    .titulopizzacarousel {
+        padding-left: 10%;
+        font-size: 1rem;
+        margin-top: 18%;
+        margin-bottom: 4%;
+    }
+
+    a href {
+        padding-top: 4%;
+        margin-top: -4%;
+    }
+
+    .pedirahora {
+        width: 82%;
+        padding-left: -0%;
+        margin-top: 16%;
+        font-size: 1.8rem;
+        padding: 0%;
+        padding-top: 4%;
+    }
+
+    .cards-container P {
+        width: 85%;
+        font-size: 1.1rem;
+        margin-left: 10%;
+        height: 30%;
+        padding: 4%;
+        align-content: normal;
+    }
+
+    .card {
+        flex: 0 0 calc(100% /2);
+    }
+
+    .prev-button,
+    .next-button {
+        margin-top: 2%;
+        font-size: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    /*SECCCIÓN NOSOTROS*/
+
+
+    .container_white {
+        width: 48%;
+        margin-left: 8%;
+    }
+
+
+
+
+
+    .parrafo_nosotros {
+
+        font-size: 1.6rem;
+        padding-right: 4%;
+        padding-left: 2%;
+    }
+
+
+    .h3 {
+        font-size: 24px;
+        margin-left: 5%;
+        margin-top: 4%;
+
+    }
+
+    they {
+        font-size: 18px;
+
+    }
+
+    .they-container {
+        margin-left: 4%;
+        margin-top: 2%;
+
+
+    }
+
+
+    .Alma {
+        font-size: 34px;
+    }
+
+    .img2 {
+        width: 42%;
+        margin-top: -19%;
+        height: 140%;
+        margin-right: 0%;
+    }
+
+    .slogan_logo2 {
+        width: 14%;
+        margin-left: 22%;
+        margin-top: 6%;
+        padding-bottom: 2.5%;
+    }
+
+
+
+    /*SECCIÓN CONTACTO */
+
+    .estilos-contacto {
+        margin-top: -16%;
+
+    }
+
+    .contac {
+        font-size: 1.6rem;
+        margin-top: -120%;
+        margin-left: 12%;
+    }
+
+    .form-container {
+        margin-top: -4%;
+        margin-left: -60%;
+    }
+
+    .form-container label {
+        font-size: 16px;
+    }
+
+    .form-container input[type="text"],
+    .form-container input[type="email"],
+    .form-container textarea {
+        padding: 6px;
+    }
+
+    .form-container input[type="submit"] {
+        padding: 8px 16px;
+        font-size: 20px;
+    }
+
+    iframe {
+        margin-left: -210%;
+        width: 120%;
+        height: 38vh;
+    }
+
+    footer i {
+        font-size: 40px;
+        padding: 55px;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+
+    body {
+        font-size: 0.8rem;
+
+    }
+
+    nav {
+
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        width: 99%;
+
+
+
+    }
+
+    .fa-magnifying-glass {
+        margin-top: 0.8%;
+        padding: 6%;
+        color: #FEDB10;
+        font-size: 18px;
+
+    }
+
+    ul {
+        padding-right: 8%;
+        margin-left: 0%;
+        justify-items: center center;
+
+    }
+
+    li {
+        margin-top: 2.5%;
+
+        padding: 2.5%;
+
+    }
+
+    a {
+
+        padding: 6%;
+        margin-right: 42%;
+        text-decoration: none;
+        color: #FEDB10;
+        font-size: 1.2rem;
+
+    }
+
+
+
+    /*INICIO SECCION INICIO*/
+
+
+    .logo {
+        margin-left: 32%;
+
+        width: 148%;
+
+    }
+
+    .slogan {
+        margin-bottom: 2%;
+
+        width: 540px;
+        margin-top: 4%;
+        background-color: #07070766;
+        padding-left: 4px;
+        text-align: center;
+        display: inline-block;
+        margin-left: 185px;
+
+        width: 80%;
+
+    }
+
+    .slogan h1 {
+        font-size: 2.2rem;
+        padding-right: 4%;
+        padding-left: 8%;
+
+        margin-left: 2%;
+
+        margin-top: 1%;
+        margin-bottom: 2%;
+        margin-left: 1%;
+
+        text-align: left;
+
+
+
+    }
+
+    .descripcion {
+        width: 120%;
+        font-size: 2.4rem;
+        margin-left: 64%;
+    }
+
+    .contenedor_video video {
+        min-width: 100%;
+        min-height: 100%;
+    }
+
+
+
+    /*INICIO SECCION MENÚ*/
+    .titulo-menu {
+        padding-left: 0.5%;
+        font-size: 2.3rem;
+        margin-left: 1%;
+    }
+
+    .card img {
+        width: 82%;
+    }
+
+    .card h1 {
+        font-size: 24px;
+
+    }
+
+    .cards-container {
+
+        gap: 1.4%;
+        margin-left: 1.5%;
+        margin-right: 6%;
+    }
+
+    .carousel {
+        width: 82%;
+        margin-left: 10%;
+        background-color: rgba(0, 0, 0, 0.368);
+        margin-top: 28%;
+        height: 55%;
+        padding: 2%;
+    }
+
+    .titulopizzacarousel {
+        padding-left: 10%;
+        font-size: 1.2rem;
+        margin-top: 12%;
+        margin-bottom: 4%;
+    }
+
+
+    .pedirahora {
+        width: 86%;
+        padding-right: 8%;
+        margin-top: 4%;
+        font-size: 0.4rem;
+        padding: 1%;
+    }
+
+    .cards-container P {
+        width: 82%;
+        font-size: 1.5rem;
+        margin-left: 10%;
+        height: 30%;
+        padding: 4%;
+        align-content: normal;
+    }
+
+    .card {
+        flex: 0 0 calc(100% /2);
+    }
+
+    .prev-button,
+    .next-button {
+        margin-top: 2%;
+        font-size: 30px;
+        margin-left: -1px;
+        margin-right: -1px;
+    }
+
+    /*SECCCIÓN NOSOTROS*/
+
+
+    .container_white {
+        width: 48%;
+        margin-left: 8%;
+    }
+
+
+
+
+
+    .parrafo_nosotros {
+
+        font-size: 1.3rem;
+        padding-right: 4%;
+        padding-left: 2%;
+    }
+
+
+    .h3 {
+        font-size: 12px;
+        margin-left: 2%;
+        margin-top: 4%;
+
+    }
+
+    .they {
+        font-size: 14px;
+
+    }
+
+    .they-container {
+        margin-left: 6%;
+        margin-top: 2%;
+
+
+    }
+
+
+    .Alma {
+        font-size: 34px;
+    }
+
+    .img2 {
+        width: 42%;
+        margin-top: -19%;
+        height: 140%;
+        margin-right: 0%;
+    }
+
+    .slogan_logo2 {
+        width: 14%;
+        margin-left: 22%;
+        margin-top: 6%;
+        padding-bottom: 2.5%;
+    }
+
+
+
+    /*SECCIÓN CONTACTO */
+
+    .estilos-contacto {
+        margin-top: -16%;
+
+    }
+
+    .contac {
+        font-size: 1.6rem;
+        margin-top: -120%;
+        margin-left: 12%;
+    }
+
+    .form-container {
+        margin-top: -4%;
+        margin-left: -60%;
+    }
+
+    .form-container label {
+        font-size: 16px;
+    }
+
+    .form-container input[type="text"],
+    .form-container input[type="email"],
+    .form-container textarea {
+        padding: 6px;
+    }
+
+    .form-container input[type="submit"] {
+        padding: 8px 16px;
+        font-size: 20px;
+    }
+
+    iframe {
+        margin-left: -210%;
+        width: 120%;
+        height: 38vh;
+    }
+
+    footer i {
+        font-size: 40px;
+        padding: 55px;
+    }
+
+
+
+}
